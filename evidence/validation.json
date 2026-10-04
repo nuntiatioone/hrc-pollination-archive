@@ -1,0 +1,349 @@
+{
+  "validation_scope": "Structural checks, source hash, comparison to a separately read handwritten witness, and source-written totals. Not external scientific validation.",
+  "source_sha256": "e6d76c5d41e013a193667914ffbeace5e3e9875262686df74ad940c9a646b298",
+  "records": 55,
+  "input_hashes": {
+    "typed-apricot-1950.tsv": "9a1528ffac3322cf64f2ed8b4177587bf47a6e7bad554c7227f2d30cadcf6161",
+    "handwritten-count-witness.tsv": "354e01120fe441f47650ed3db2f30e4a8a583656bdd5b0c7db65e99e97b29fbf",
+    "annotations.json": "f38e5e1505d489b8642b5c29b581bb81d242e84c972b4dbfd4eef250545aaa9e"
+  },
+  "flowers_known_first_16": 3719,
+  "fruit_known_first_16": 280,
+  "fruit_typed_ATO_series_39_rows": 4556,
+  "fruit_sum_recorded_cells_across_55_rows": 4836,
+  "sum_limitation": "44 recorded typed cells summed; 11 blanks excluded. This is not complete cohort yield or independent biological validation.",
+  "blank_fruit_cells": 11,
+  "cross_column_expressions": 4,
+  "comparisons": [
+    {
+      "sequence": 1,
+      "typed_fruit": 6,
+      "handwritten_comparison": 6,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 2,
+      "typed_fruit": null,
+      "handwritten_comparison": null,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 3,
+      "typed_fruit": null,
+      "handwritten_comparison": null,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 4,
+      "typed_fruit": null,
+      "handwritten_comparison": null,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 5,
+      "typed_fruit": null,
+      "handwritten_comparison": null,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 6,
+      "typed_fruit": null,
+      "handwritten_comparison": null,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 7,
+      "typed_fruit": null,
+      "handwritten_comparison": null,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 8,
+      "typed_fruit": 96,
+      "handwritten_comparison": 96,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 9,
+      "typed_fruit": 79,
+      "handwritten_comparison": 79,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 10,
+      "typed_fruit": 17,
+      "handwritten_comparison": 17,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 11,
+      "typed_fruit": null,
+      "handwritten_comparison": null,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 12,
+      "typed_fruit": null,
+      "handwritten_comparison": null,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 13,
+      "typed_fruit": 82,
+      "handwritten_comparison": 82,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 14,
+      "typed_fruit": null,
+      "handwritten_comparison": null,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 15,
+      "typed_fruit": null,
+      "handwritten_comparison": null,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 16,
+      "typed_fruit": null,
+      "handwritten_comparison": null,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 17,
+      "typed_fruit": 57,
+      "handwritten_comparison": 57,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 18,
+      "typed_fruit": 32,
+      "handwritten_comparison": 32,
+      "basis": "arithmetic correspondence only; cross-column semantics unresolved"
+    },
+    {
+      "sequence": 19,
+      "typed_fruit": 69,
+      "handwritten_comparison": 69,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 20,
+      "typed_fruit": 1106,
+      "handwritten_comparison": 1106,
+      "basis": "arithmetic correspondence only; cross-column semantics unresolved"
+    },
+    {
+      "sequence": 21,
+      "typed_fruit": 29,
+      "handwritten_comparison": 29,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 22,
+      "typed_fruit": 411,
+      "handwritten_comparison": 411,
+      "basis": "arithmetic correspondence only; cross-column semantics unresolved"
+    },
+    {
+      "sequence": 23,
+      "typed_fruit": 19,
+      "handwritten_comparison": 19,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 24,
+      "typed_fruit": 267,
+      "handwritten_comparison": 267,
+      "basis": "arithmetic correspondence only; cross-column semantics unresolved"
+    },
+    {
+      "sequence": 25,
+      "typed_fruit": 18,
+      "handwritten_comparison": 18,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 26,
+      "typed_fruit": 20,
+      "handwritten_comparison": 20,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 27,
+      "typed_fruit": 17,
+      "handwritten_comparison": 17,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 28,
+      "typed_fruit": 61,
+      "handwritten_comparison": 61,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 29,
+      "typed_fruit": 40,
+      "handwritten_comparison": 40,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 30,
+      "typed_fruit": 83,
+      "handwritten_comparison": 83,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 31,
+      "typed_fruit": 172,
+      "handwritten_comparison": 172,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 32,
+      "typed_fruit": 3,
+      "handwritten_comparison": 3,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 33,
+      "typed_fruit": 6,
+      "handwritten_comparison": 6,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 34,
+      "typed_fruit": 23,
+      "handwritten_comparison": 23,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 35,
+      "typed_fruit": 31,
+      "handwritten_comparison": 31,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 36,
+      "typed_fruit": 7,
+      "handwritten_comparison": 7,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 37,
+      "typed_fruit": 14,
+      "handwritten_comparison": 14,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 38,
+      "typed_fruit": 18,
+      "handwritten_comparison": 18,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 39,
+      "typed_fruit": 174,
+      "handwritten_comparison": 174,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 40,
+      "typed_fruit": 31,
+      "handwritten_comparison": 31,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 41,
+      "typed_fruit": 36,
+      "handwritten_comparison": 36,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 42,
+      "typed_fruit": 69,
+      "handwritten_comparison": 69,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 43,
+      "typed_fruit": 83,
+      "handwritten_comparison": 83,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 44,
+      "typed_fruit": 24,
+      "handwritten_comparison": 24,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 45,
+      "typed_fruit": 75,
+      "handwritten_comparison": 75,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 46,
+      "typed_fruit": 64,
+      "handwritten_comparison": 64,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 47,
+      "typed_fruit": 74,
+      "handwritten_comparison": 74,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 48,
+      "typed_fruit": 83,
+      "handwritten_comparison": 83,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 49,
+      "typed_fruit": 45,
+      "handwritten_comparison": 45,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 50,
+      "typed_fruit": 146,
+      "handwritten_comparison": 146,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 51,
+      "typed_fruit": 165,
+      "handwritten_comparison": 165,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 52,
+      "typed_fruit": 109,
+      "handwritten_comparison": 109,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 53,
+      "typed_fruit": 11,
+      "handwritten_comparison": 11,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 54,
+      "typed_fruit": 429,
+      "handwritten_comparison": 429,
+      "basis": "literal count or blank"
+    },
+    {
+      "sequence": 55,
+      "typed_fruit": 435,
+      "handwritten_comparison": 435,
+      "basis": "literal count or blank"
+    }
+  ]
+}

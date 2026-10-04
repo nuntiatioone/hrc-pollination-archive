@@ -1,0 +1,11 @@
+{
+  "retrieved_utc": "2026-10-04",
+  "source_citation": "Horticultural Research Center. (1955). Pollination Records from University of Minnesota Fruit Breeding Program from 1950-1955. University Digital Conservancy. https://hdl.handle.net/11299/206557",
+  "license": "CC BY 4.0, explicitly stated in the collection codebook generated 2019-07-12 by James Luby",
+  "access_note": "Ordinary item and policy webpages returned 403 to the available clients. These specific files were retrieved from the publicly accessible official DSpace API without authentication. No restricted endpoint or access control was bypassed. No item-specific automation prohibition was found; this was one bounded document retrieval, not a bulk crawl.",
+  "files": [
+    {"path": "sources/item-206557.json", "url": "https://conservancy.umn.edu/server/api/pid/find?id=11299/206557", "sha256": "4f02f8a3c4a7bd960d236d62ff8758a4fe05f434d21751839cf675adb87909bc", "kind": "repository metadata snapshot"},
+    {"path": "sources/pollination-codebook.txt", "url": "https://conservancy.umn.edu/server/api/core/bitstreams/2c32f75e-3178-454e-b351-35ccba9fc8cd/content", "sha256": "008d6b9a3f2fbfdfcffbe2dacffe8e267d38e1b91767239240a9128340252bf8", "kind": "original codebook"},
+    {"path": "sources/pollination-1950-1955.pdf", "url": "https://conservancy.umn.edu/server/api/core/bitstreams/c4f6608a-c72f-4416-bcc7-e17df06195da/content", "sha256": "e6d76c5d41e013a193667914ffbeace5e3e9875262686df74ad940c9a646b298", "bytes": 50049710, "pdf_pages": 118, "kind": "original preserved scan; unmodified"}
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "scope": "All 55 occupied tabular rows in the 1950 Apricot typed section, PDF pages 34-36. Handwritten count witness: pages 17, 19, 20. This is not a full transcription of handwriting or the other 112 PDF pages.",
+  "row_notes": [
+    {
+      "sequence": 1,
+      "kind": "omitted_annotation",
+      "handwritten_page": 17,
+      "note": "Tentative handwritten margin reading: in greenhouse, Feb. 21 50, with ditto marks down subsequent rows. Note above CROSS may read (Tub Pot) or (each pot?). These uncertain ancillary readings are not substituted for pollination dates or any normalized variable.",
+      "reading_status": "uncertain"
+    },
+    {
+      "sequence": 9,
+      "kind": "typographic",
+      "typed_page": 34,
+      "note": "Breeding number contains overtyping; read as At 509 using the visible digits and handwritten AT509. The source image is the authority."
+    },
+    {
+      "sequence": 14,
+      "kind": "omitted_annotation",
+      "handwritten_page": 17,
+      "note": "Pink Bloom appears in left margin."
+    },
+    {
+      "sequence": 15,
+      "kind": "omitted_annotation",
+      "handwritten_page": 17,
+      "note": "White Bloom appears in left margin."
+    },
+    {
+      "sequence": 17,
+      "kind": "date_discrepancy",
+      "handwritten_page": 17,
+      "typed_page": 34,
+      "note": "Typed date is the single character 3; handwritten date is a dash. No full date is inferred."
+    },
+    {
+      "sequence": 18,
+      "kind": "cross_column_addition",
+      "handwritten_page": 17,
+      "typed_page": 34,
+      "note": "Handwritten 22 + 10 spans the Fruit Matured and Plump Seed columns; typed copy places 32 in Fruit Matured. Preserve both witnesses; the apparent arithmetic agreement does not establish independent plump-seed data."
+    },
+    {
+      "sequence": 20,
+      "kind": "cross_column_addition",
+      "handwritten_page": 17,
+      "typed_page": 34,
+      "note": "Handwritten 318 + 753 + 35 spans Fruit Matured, Plump Seed and Germinated columns; typed copy places 1106 in Fruit Matured. No separate seed or germination values are inferred."
+    },
+    {
+      "sequence": 22,
+      "kind": "cross_column_addition",
+      "handwritten_page": 19,
+      "typed_page": 35,
+      "note": "Handwritten 44 + 367 spans Fruit Matured and Plump Seed columns; typed copy places 411 in Fruit Matured. Typed parent abbreviation is Apric, retained literally."
+    },
+    {
+      "sequence": 24,
+      "kind": "cross_column_addition",
+      "handwritten_page": 19,
+      "typed_page": 35,
+      "note": "Handwritten 74 + 193 spans Fruit Matured and Plump Seed columns; typed copy places 267 in Fruit Matured. The handwritten separator is ambiguous; plus is the working reading, supported by the typed aggregate, not an established original measurement convention."
+    },
+    {
+      "sequence": 32,
+      "kind": "cross_description_difference",
+      "handwritten_page": 19,
+      "typed_page": 35,
+      "note": "Handwritten N2644 (Tub) open becomes N2644 (P. armeniaca) open in the historical typed copy. This expansion is not independently taxonomically verified.",
+      "reading_status": "handwritten parenthetical uncertain"
+    },
+    {
+      "sequence": 54,
+      "kind": "agent_reading_disagreement",
+      "handwritten_page": 20,
+      "typed_page": 36,
+      "note": "Lead reads typed 429 and handwritten 429. A second agent read typed 129. Compare the typewriter's open 4 against 435 directly below; disagreement and adjudication are documented in evidence/visual-review.md."
+    }
+  ],
+  "group_notes": [
+    {
+      "sequences": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "kind": "omitted_open_label",
+      "note": "Typed cross strings omit open; handwritten continuation contains ditto marks, and codes remain in the ATo series. The normalized typed pollination_mode stays unspecified; no pollen parent is invented."
+    },
+    {
+      "sequences": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "kind": "code_interpretation",
+      "note": "The final letter of Ato is an o, not a zero. The historical typed copy supports this reading of handwritten ATo. Do not repad codes using the general codebook example."
+    }
+  ],
+  "source_totals": [
+    {
+      "pdf_page": 17,
+      "placement": "extra right columns, aligned near row16",
+      "label_raw": "TOTAL POL; TOTAL MAT.",
+      "flowers": 3719,
+      "fruit": 280,
+      "scope": "interpreted as first 16 paired-parent entries; values independently match transcribed sums of known counts"
+    },
+    {
+      "pdf_page": 20,
+      "placement": "below row55, Fruit Matured column",
+      "value_raw": "4556",
+      "scope": "matches all 39 ATo typed entries, not all 55 Apricot entries"
+    }
+  ]
+}

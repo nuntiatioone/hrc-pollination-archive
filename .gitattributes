@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.pdf -text
+*.png -text
+*.jpg -text
+# Original repository downloads are byte-preserved for SHA-256 verification.
+sources/** -text
+# Trailing tabs encode deliberately empty final fields, and originals stay exact.
+data/*.tsv whitespace=-blank-at-eol
+sources/** -whitespace

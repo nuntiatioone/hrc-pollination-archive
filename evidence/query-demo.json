@@ -1,0 +1,75 @@
+{
+  "question": "Which recorded crosses mention Golden Glow, and which outcomes are actually recorded?",
+  "golden_glow_records": [
+    {
+      "breeding_no": "AT502",
+      "cross_raw": "Apri. #3 (1) x Golden Glow",
+      "flowers_pollinated": 178,
+      "fruit_matured_typed": null,
+      "typed_pdf_page": 34,
+      "typed_page_row": 2,
+      "annotation_codes": ""
+    },
+    {
+      "breeding_no": "AT503",
+      "cross_raw": "Apri. #6 (1) x Golden Glow",
+      "flowers_pollinated": 91,
+      "fruit_matured_typed": null,
+      "typed_pdf_page": 34,
+      "typed_page_row": 3,
+      "annotation_codes": ""
+    },
+    {
+      "breeding_no": "AT507",
+      "cross_raw": "Zun (3) x Golden Glow",
+      "flowers_pollinated": 373,
+      "fruit_matured_typed": null,
+      "typed_pdf_page": 34,
+      "typed_page_row": 7,
+      "annotation_codes": ""
+    },
+    {
+      "breeding_no": "AT508",
+      "cross_raw": "N4133 Golden Glow (1) x Apri. #29",
+      "flowers_pollinated": 565,
+      "fruit_matured_typed": 96,
+      "typed_pdf_page": 34,
+      "typed_page_row": 8,
+      "annotation_codes": ""
+    },
+    {
+      "breeding_no": "AT5014",
+      "cross_raw": "Manchu Apri. (1) x Golden Glow",
+      "flowers_pollinated": 103,
+      "fruit_matured_typed": null,
+      "typed_pdf_page": 34,
+      "typed_page_row": 14,
+      "annotation_codes": "omitted_annotation"
+    }
+  ],
+  "missingness": [
+    {
+      "records": 55,
+      "flower_cells_recorded": 16,
+      "fruit_cells_recorded": 44,
+      "fruit_cells_blank": 11,
+      "plump_seed_cells_recorded": 0,
+      "germinated_cells_recorded": 0
+    }
+  ],
+  "typed_cross_descriptions": [
+    {
+      "pollination_mode": "explicit_open",
+      "records": 31
+    },
+    {
+      "pollination_mode": "paired_parents_recorded",
+      "records": 16
+    },
+    {
+      "pollination_mode": "unspecified_in_typed_cross",
+      "records": 8
+    }
+  ],
+  "interpretation": "These are statements about the preserved typed record, not biological success or genetically verified parents. Blank fruit cells remain null. See annotations.json for handwritten divergences."
+}

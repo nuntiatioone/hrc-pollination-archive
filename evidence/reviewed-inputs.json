@@ -1,0 +1,11 @@
+{
+  "version": "0.1",
+  "reviewed_utc": "2026-10-04",
+  "review_scope": "Lead source reading plus independent agent readings and explicit adjudication; see visual-review.md. Re-review any changed inputs before deliberately replacing this manifest.",
+  "sha256": {
+    "data/typed-apricot-1950.tsv": "9a1528ffac3322cf64f2ed8b4177587bf47a6e7bad554c7227f2d30cadcf6161",
+    "data/handwritten-count-witness.tsv": "354e01120fe441f47650ed3db2f30e4a8a583656bdd5b0c7db65e99e97b29fbf",
+    "data/annotations.json": "f38e5e1505d489b8642b5c29b581bb81d242e84c972b4dbfd4eef250545aaa9e"
+  },
+  "normalization": "Reviewed text uses LF line endings, enforced by .gitattributes; original source downloads are byte-preserved. No source-cell content changed during line-ending normalization."
+}

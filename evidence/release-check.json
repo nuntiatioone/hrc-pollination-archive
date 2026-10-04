@@ -1,0 +1,37 @@
+{
+  "checked_utc": "2026-10-04T04:36:03.710787+00:00",
+  "scope": "55 occupied typed Apricot1950 rows with handwritten count witnesses",
+  "commands": [
+    {
+      "command": "python tools/acquire.py",
+      "exit_code": 0
+    },
+    {
+      "command": "python tools/build.py",
+      "exit_code": 0
+    },
+    {
+      "command": "python tools/query.py demo",
+      "exit_code": 0
+    },
+    {
+      "command": "python tools/make_review.py",
+      "exit_code": 0
+    }
+  ],
+  "byte_identical_to_reviewed_outputs": [
+    "data/apricot-1950.csv",
+    "data/apricot-1950.json",
+    "data/parent-label-review.csv",
+    "evidence/validation.json",
+    "build/review/index.html",
+    "build/review/assets/page-017.jpg",
+    "build/review/assets/page-019.jpg",
+    "build/review/assets/page-020.jpg",
+    "build/review/assets/page-034.jpg",
+    "build/review/assets/page-035.jpg",
+    "build/review/assets/page-036.jpg"
+  ],
+  "python": "3.12.14",
+  "limitations": "Existing pinned runtime reused; no clean-OS installation test, external human validation or verified plant identities. Localhost browser checks performed separately. Original source PDF retained byte-for-byte."
+}

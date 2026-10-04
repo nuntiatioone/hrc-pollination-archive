@@ -1,0 +1,125 @@
+﻿This codebook.txt file was generated on 20190712 by James Luby
+
+-------------------
+GENERAL INFORMATION
+-------------------
+
+1. Title of Dataset 
+Pollination Records from the University of Minnesota Horticultural Research Center (previously Fruit Breeding Farm) from 1908-1955
+
+2. Author Information
+
+University of Minnesota Horticultural Research Center
+600 Arboretum Blvd., Excelsior MN 55331
+
+Since the data was collected over large periods of time, it is unclear who authored each page/dataset. 
+
+Leadership at the Horticultural Research Center/Fruit Breeding Farm has been documented in a few publications, including:
+
+Snyder, Leon C. 1983. History of the Department of Horticultural Science and Landscape Architecture, 1849-1982. University of Minnesota. Retrieved from the University of Minnesota Digital Conservancy, http://hdl.handle.net/11299/93379.
+
+Luby, James. 1991. Breeding Cold-hardy Fruit Crops in Minnesota. HortScience 26(5): 507-512. https://doi.org/10.21273/HORTSCI.26.5.507
+
+Luby, James and Anne Fennell. 2006. Fruit Breeding for the Northern Great Plains at the University of Minnesota and South Dakota State University. HortScience 41(1): 25-26. https://doi.org/10.21273/HORTSCI.41.1.25
+
+Luby, James. 2009. 100 Years of Fruit Crops Breeding at the University of Minnesota. Retrieved from http://hdl.handle.net/11299/206527
+
+3. Date of data collection: 1908-1955
+
+4. Geographic location of data collection: 
+University of Minnesota Horticultural Research Center (previously Fruit Breeding Farm) at 44.867793 N,-93.635015 W
+
+5. Information about funding sources that supported the collection of the data:
+Mainly Minnesota Agricultural Experiment Station  and  Department of Horticultural Science (older names were Department of Horticultural Science and Landscape Architecture and Department of Horticulture).
+
+--------------------------
+SHARING/ACCESS INFORMATION
+-------------------------- 
+
+1. Licenses/restrictions placed on the data:
+Attribution 4.0 International (CC BY 4.0)
+
+2. Links to publications that cite or use the data:
+Many publications by researchers at the Horticultural Research Center have utilized the fruit breeding data. 
+
+---------------------
+DATA & FILE OVERVIEW
+---------------------
+
+1. File List
+   A. Filename: PollinationRecords1908_1922.pdf       
+      Description:  Pollination records across multiple species from UMN fruit breeding program from 1908-1922.
+
+                    Species included: Fragaria/strawberry; Malus domestica/apple; Prunus/cherry; Prunus besseyii x americana/Compass cherry; Prunus domestica/plum; Prunus persica/peach; Rubus/raspberry; Vitis/grape   
+        
+   B. Filename: PollinationRecords1923_1927.pdf       
+      Description:  Pollination records across multiple species from UMN fruit breeding program from 1923-1927.
+
+		    Species included: Fragaria/strawberry; Malus domestica/apple; Prunus/cherry; Prunus domestica/plum; Prunus persica/peach; Pyrus/pear; Ribes/currant; Ribes grosularia/gooseberry; Rubus/blackberry; Rubus/raspberry; Rubus flagellaris/dewberry; Vitis/grape     
+
+   C. Filename: PollinationRecords1928_1931.pdf       
+      Description:  Pollination records across multiple species from UMN fruit breeding program from 1928-1931.
+
+		    Species included: Amelanchier alnifolia/juneberry; Carya ovata/hickory; Cucumis melo/muskmelon; Fragaria/strawberry; Juglans nigra/walnut; Malus domestica/apple; Prunus/cherry; Prunus domestica/plum; Prunus persica/peach; Prunus tomentosa/Nanking cherry; Pyrus/pear; Ribes/currant; Ribes grosularia/gooseberry; Rubus/blackberry; Rubus/raspberry; Vitis/grape
+
+   D. Filename: PollinationRecords1932_1935.pdf       
+      Description:  Pollination records across multiple species from UMN fruit breeding program from 1932-1935.
+
+		    Species included: Amelanchier alnifolia/juneberry; Carya ovata/hickory; Corylus/hazelnut; Cydonia oblonga/quince; Fragaria/strawberry; Juglans nigra/walnut; Malus domestica/apple; Prunus/apricot; Prunus/cherry; Prunus domestica/plum; Prunus persica/peach; Prunus tenella/Siberian almond; Pyrus/pear; Ribes/currant; Ribes grosularia/gooseberry; Rubus/blackberry; Rubus idaeus/red raspberry; Rubus occidentalis/black raspberry; Vitis/grape   
+
+   E. Filename: PollinationRecords1936_1941.pdf       
+      Description:  Pollination records across multiple species from UMN fruit breeding program from 1936-1941.
+
+		    Species included: Amelanchier alnifolia/juneberry; Corylus/filbert; Corylus/hazelnut; Fragaria/strawberry; Juglans nigra/walnut; Malus domestica/apple; Morus rubra/mulberry; Prunus/apricot; Prunus/cherry; Prunus domestica/plum; Prunus dulcis/almond; Prunus persica/peach; Pyrus/pear; Ribes/currant; Ribes grosularia/gooseberry; Rubus/blackberry; Rubus/raspberry; Viburnum trilobum/highbush cranberry
+
+   F. Filename: PollinationRecords1942_1949.pdf       
+      Description:  Pollination records across multiple species from UMN fruit breeding program from 1942-1949.
+
+		    Species included: Corylus/hazelnut; Fragaria/strawberry; Malus domestica/apple; Prunus/apricot; Prunus/cherry; Prunus domestica/plum; Prunus dulcis/almond; Prunus persica/peach; Pyrus/pear; Ribes grosularia/gooseberry; Rubus/blackberry; Rubus/raspberry; Vitis/grape
+
+   G. Filename: PollinationRecords1943_1951.pdf       
+      Description:  Pollination records across multiple species from UMN fruit breeding program from 1943-1951.
+
+		    Species included: Malus/crab apple; Malus domestica/apple; Prunus/apricot; Prunus/cherry plum; Prunus besseyii x salicina hybrid/Opata Cherry-Plum; Prunus domestica/plum; Prunus japonica/Korean cherry; Prunus tomentosa/Nanking cherry; Rubus/blackberry  
+
+   H. Filename: PollinationRecords1950_1955.pdf       
+      Description:  Pollination records across multiple species from UMN fruit breeding program from 1950-1955. Contains both original handwritten records and typed transcriptions from these years.
+
+		    Species included: Amelanchier alnifolia/juneberry; Corylus/hazelnut; Fragaria/strawberry; Malus domestica/apple; Prunus/apricot; Prunus/cherry; Prunus domestica/plum; Prunus dulcis/almond; Prunus persica/peach; Prunus/stone fruit; Pyrus/pear; Rubus/raspberry; Viburnum trilobum/highbush cranberry; Vitis/grape 
+
+2. Relationship between files:        
+
+Files refer to different time periods, and contain different species, as noted above. However, they are all part of the same collection.
+
+--------------------------
+METHODOLOGICAL INFORMATION
+--------------------------
+
+1. Description of methods used for collection/generation of data: 
+
+Each cross made in a crop in a given year was recorded including the parents and sometimes number of seeds produced.  
+
+The designation for a cross consists of the first and last letter of the common name of the crop followed by a number that includes the last two digits of the year and then the sequential number of the cross within that year, e.g. AE 5501 would be the first cross (01) made in 1955 (55) in the crop apple (AE).  Grape is GE, strawberry is SY, raspberry is RY etc.
+
+
+2. People involved with data collection:
+
+As stated above, since the data was collected over large periods of time, it is unclear who authored each page/dataset. 
+
+Leadership at the Horticultural Research Center/Fruit Breeding Farm has been documented in a few publications, including:
+
+Snyder, Leon C. 1983. History of the Department of Horticultural Science and Landscape Architecture, 1849-1982. University of Minnesota. Retrieved from the University of Minnesota Digital Conservancy, http://hdl.handle.net/11299/93379.
+
+Luby, James. 1991. Breeding Cold-hardy Fruit Crops in Minnesota. HortScience 26(5): 507-512. https://doi.org/10.21273/HORTSCI.26.5.507
+
+Luby, James and Anne Fennell. 2006. Fruit Breeding for the Northern Great Plains at the University of Minnesota and South Dakota State University. HortScience 41(1): 25-26. https://doi.org/10.21273/HORTSCI.41.1.25
+
+Luby, James. 2009. 100 Years of Fruit Crops Breeding at the University of Minnesota. Retrieved from http://hdl.handle.net/11299/206527
+
+-----------------------------------------
+DATA-SPECIFIC INFORMATION FOR: Pollination Records
+-----------------------------------------
+The files in this collection are scans of original research documents generated and housed at the University of Minnesota Horticultural Research Center, formerly called the University of Minnesota Fruit Breeding Farm from 1908-1967. 
+
+
+

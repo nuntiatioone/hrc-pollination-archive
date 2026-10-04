@@ -1,0 +1,289 @@
+{
+  "id" : "ca0ae6dd-351e-4fa6-8cdd-c3f95fa3c7a6",
+  "uuid" : "ca0ae6dd-351e-4fa6-8cdd-c3f95fa3c7a6",
+  "name" : "Pollination Records from University of Minnesota Fruit Breeding Program from 1950-1955",
+  "handle" : "11299/206557",
+  "metadata" : {
+    "dc.contributor.author" : [ {
+      "value" : "Horticultural Research Center",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.accessioned" : [ {
+      "value" : "2019-09-09T16:19:52Z",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.available" : [ {
+      "value" : "2019-09-09T16:19:52Z",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.issued" : [ {
+      "value" : "1955",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.description" : [ {
+      "value" : "Pollination records across multiple species from UMN fruit breeding program from 1950-1955.  Contains both original handwritten records and typed transcriptions from these years.",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.description.suggestedcitation" : [ {
+      "value" : "Horticultural Research Center. (1955). Pollination Records from University of Minnesota Fruit Breeding Program from 1950-1955. Retrieved from the University Digital Conservancy, https://hdl.handle.net/11299/206557.",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.identifier.uri" : [ {
+      "value" : "https://hdl.handle.net/11299/206557",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.language.iso" : [ {
+      "value" : "en",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.subject" : [ {
+      "value" : "breeding",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    }, {
+      "value" : "breeding material",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 1
+    }, {
+      "value" : "almond",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 2
+    }, {
+      "value" : "Amelanchier alnifolia",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 3
+    }, {
+      "value" : "apple",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 4
+    }, {
+      "value" : "apricot",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 5
+    }, {
+      "value" : "cherry",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 6
+    }, {
+      "value" : "Corylus",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 7
+    }, {
+      "value" : "Fragaria",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 8
+    }, {
+      "value" : "grape",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 9
+    }, {
+      "value" : "hazelnut",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 10
+    }, {
+      "value" : "highbush cranberry",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 11
+    }, {
+      "value" : "juneberry",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 12
+    }, {
+      "value" : "Malus domestica",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 13
+    }, {
+      "value" : "peach",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 14
+    }, {
+      "value" : "pear",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 15
+    }, {
+      "value" : "plum",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 16
+    }, {
+      "value" : "Prunus",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 17
+    }, {
+      "value" : "Prunus domestica",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 18
+    }, {
+      "value" : "Prunus dulcis",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 19
+    }, {
+      "value" : "Prunus persica",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 20
+    }, {
+      "value" : "Pyrus",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 21
+    }, {
+      "value" : "raspberry",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 22
+    }, {
+      "value" : "Rubus",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 23
+    }, {
+      "value" : "stone fruit",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 24
+    }, {
+      "value" : "strawberry",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 25
+    }, {
+      "value" : "Viburnum trilobum",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 26
+    }, {
+      "value" : "Vitis",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 27
+    } ],
+    "dc.title" : [ {
+      "value" : "Pollination Records from University of Minnesota Fruit Breeding Program from 1950-1955",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.type" : [ {
+      "value" : "Dataset",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ]
+  },
+  "inArchive" : true,
+  "discoverable" : true,
+  "withdrawn" : false,
+  "lastModified" : "2019-09-09T17:01:37.652Z",
+  "entityType" : null,
+  "type" : "item",
+  "uniqueType" : "core.item",
+  "_links" : {
+    "accessStatus" : {
+      "href" : "https://conservancy.umn.edu/server/api/core/items/ca0ae6dd-351e-4fa6-8cdd-c3f95fa3c7a6/accessStatus"
+    },
+    "bundles" : {
+      "href" : "https://conservancy.umn.edu/server/api/core/items/ca0ae6dd-351e-4fa6-8cdd-c3f95fa3c7a6/bundles"
+    },
+    "identifiers" : {
+      "href" : "https://conservancy.umn.edu/server/api/core/items/ca0ae6dd-351e-4fa6-8cdd-c3f95fa3c7a6/identifiers"
+    },
+    "mappedCollections" : {
+      "href" : "https://conservancy.umn.edu/server/api/core/items/ca0ae6dd-351e-4fa6-8cdd-c3f95fa3c7a6/mappedCollections"
+    },
+    "owningCollection" : {
+      "href" : "https://conservancy.umn.edu/server/api/core/items/ca0ae6dd-351e-4fa6-8cdd-c3f95fa3c7a6/owningCollection"
+    },
+    "relationships" : {
+      "href" : "https://conservancy.umn.edu/server/api/core/items/ca0ae6dd-351e-4fa6-8cdd-c3f95fa3c7a6/relationships"
+    },
+    "version" : {
+      "href" : "https://conservancy.umn.edu/server/api/core/items/ca0ae6dd-351e-4fa6-8cdd-c3f95fa3c7a6/version"
+    },
+    "templateItemOf" : {
+      "href" : "https://conservancy.umn.edu/server/api/core/items/ca0ae6dd-351e-4fa6-8cdd-c3f95fa3c7a6/templateItemOf"
+    },
+    "thumbnail" : {
+      "href" : "https://conservancy.umn.edu/server/api/core/items/ca0ae6dd-351e-4fa6-8cdd-c3f95fa3c7a6/thumbnail"
+    },
+    "submitter" : {
+      "href" : "https://conservancy.umn.edu/server/api/core/items/ca0ae6dd-351e-4fa6-8cdd-c3f95fa3c7a6/submitter"
+    },
+    "self" : {
+      "href" : "https://conservancy.umn.edu/server/api/core/items/ca0ae6dd-351e-4fa6-8cdd-c3f95fa3c7a6"
+    }
+  }
+}
